@@ -9,8 +9,8 @@ emails = pd.read_csv('emails.csv')
 # Configurações do servidor SMTP
 smtp_server = 'smtp.zoho.com'
 smtp_port = 587
-username = 'suporte@viditech.com.br'
-password = 'Vidi@2024'
+username = ''
+password = ''
 
 # Criar conexão com o servidor SMTP
 server = smtplib.SMTP(smtp_server, smtp_port)

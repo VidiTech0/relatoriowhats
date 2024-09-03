@@ -38,8 +38,8 @@ def agendar_envio(numero, mensagem, hora, minuto):
 
 if __name__ == "__main__":
     # Configurações
-    nome_arquivo = 'mensagem_para_joao.txt'  # Nome do arquivo a ser lido
-    numero_whatsapp = '+5588997917773'  # Número do WhatsApp com código do país, por exemplo: +5511999999999
+    nome_arquivo = 'mensagem_para_fulano.txt'  # Nome do arquivo a ser lido
+    numero_whatsapp = '+55'  # Número do WhatsApp com código do país, por exemplo: +5511999999999
     hora_envio = 11  # Hora de envio (24 horas)
     minuto_envio = 5  # Minuto de envio
 
